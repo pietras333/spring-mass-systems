@@ -2,8 +2,13 @@
 
 A real-time spring–mass simulation built in Unity, visualized with 3D meshes and a coil-shaped LineRenderer.  
 It demonstrates principles of classical mechanics, Hooke’s Law, damping, and numerical motion integration.
+<img width="1919" height="883" alt="spring-mass" src="https://github.com/user-attachments/assets/913e4b61-9d9f-4532-b1cf-b72feba53ecf" />
 
 ---
+
+https://github.com/user-attachments/assets/03aae041-4805-4fd0-ac11-f0796b75b529
+
+
 
 ## ⚙️ Overview
 
